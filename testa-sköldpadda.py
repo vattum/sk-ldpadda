@@ -1,5 +1,5 @@
 import turtle as t
-t.speed(1)
+t.speed(2)
 
 t.color("red")
 t.fillcolor("green")
